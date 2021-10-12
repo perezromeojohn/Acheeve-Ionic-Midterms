@@ -1,0 +1,7 @@
+{
+  "name": "Acheeve-Ionic-Midterms",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
